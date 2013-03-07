@@ -17,6 +17,6 @@ Prerequisites:
 * Vagrant (vagrantup.com)
 
 Steps:
-* Clone it: `git clone git@github.com:mattcarp/vagrant-puppet-symfony2.git`
+* Clone it: `git clone git://github.com/mattcarp/vagrant-puppet-symfony2.git`
 * CD into the directory
 * Run vagrant: `vagrant up`
