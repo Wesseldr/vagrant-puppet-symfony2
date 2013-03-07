@@ -1,4 +1,4 @@
-# Vagrant Guest Environmnent for Symony2 Development
+# Vagrant Guest Environment for Symony2 Development
 
 Host created with puppet contains: 
 
